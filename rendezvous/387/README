@@ -1,0 +1,12 @@
+Make a translation function for the NATO phonetic alphabet. Extra credit: Get creative with the variants!
+
+https://en.wikipedia.org/wiki/NATO_phonetic_alphabet
+
+Example:
+
+> natoify('hello world')
+> "Hotel Echo Lima Lima Oscar (space) Whiskey Oscar Romeo Lima Delta"
+
+> natoify('3spooky5me')
+> "Three Sierra Papa Oscar Oscar Kilo Yankee Five Mike Echo"
+
